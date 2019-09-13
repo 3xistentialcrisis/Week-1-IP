@@ -20,7 +20,7 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
 }
-h6{
+h4{
     color: white;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
@@ -34,7 +34,7 @@ h5{
 }
 p{
     color: white;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 ul{
     color:white
