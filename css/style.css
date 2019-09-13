@@ -18,6 +18,15 @@ p{
     color: white;
     font-family: sans-serif;
 }
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: white;
+}
 .techlaw{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
