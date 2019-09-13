@@ -18,6 +18,9 @@ p{
     color: white;
     font-family: sans-serif;
 }
+ol{
+    color: white;
+}
 a:link{
     color: yellow;
 }
