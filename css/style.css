@@ -32,6 +32,12 @@ h5{
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
 }
+h6{
+    color: white;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large; 
+}
 p{
     color: white;
     font-family: 'Times New Roman', Times, serif;
