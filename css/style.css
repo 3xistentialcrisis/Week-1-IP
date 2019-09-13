@@ -22,10 +22,14 @@ a:link{
     color: yellow;
 }
 a:visited{
-    color: green;
+    color:  chartreuse;
 }
 a:hover{
     color: white;
+}
+a:link, a:visited, a:hover{
+    text-decoration: none;
+    padding: 14px 25px; 
 }
 .techlaw{
     font-family: 'Times New Roman', Times, serif;
