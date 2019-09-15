@@ -12,34 +12,39 @@ h1{
     text-emphasis: bold;
 }
 h2{
-    color: white;
+    color: yellow;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
+    text-emphasis: bold;
 }
 h3{
-    color: white;
+    color: yellow;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
+    text-emphasis: bold;
 }
 h4{
-    color: white;
+    color: yellow;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
+    text-emphasis: bold;
 }
 h5{
-    color: white;
+    color: yellow;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
+    text-emphasis: bold;
 }
 h6{
-    color: white;
+    color: yellow;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
+    text-emphasis: bold;
 }
 p{
     color: white;
@@ -87,8 +92,9 @@ a:link, a:visited, a:hover{
     text-align: center;
 }
 .aboutme{
-    width: 800 px;
+    width: 800px;
     border: 15px yellow;
     padding: 50px;
     margin: 20px;
+    text-align: justify
 }
