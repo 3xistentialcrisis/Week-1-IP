@@ -34,7 +34,7 @@ h4{
 }
 h5{
     color: yellow;
-    text-align: center;
+    text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large; 
     text-emphasis: bold;
@@ -99,9 +99,9 @@ a:link, a:visited, a:hover{
     text-align: justify
 }
 .education{
-    text-align: center;
-
-}.iplaw{
+    text-align: left;
+}
+.iplaw{
     font-style: italic;
     color: yellow;
 }
