@@ -101,4 +101,7 @@ a:link, a:visited, a:hover{
 .education{
     text-align: center;
 
+}.iplaw{
+    font-style: italic;
+    color: yellow;
 }
