@@ -14,4 +14,4 @@ In the event that you encounter any issues while accessing this webpage or in th
 Kindly feel free to make any contribution to the code behind this webpage.
 ### License
 MIT License
-Copyright (c) 2019. Wanjiku KaranjaS
+Copyright (c) 2019. Wanjiku Karanja
